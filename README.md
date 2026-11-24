@@ -89,10 +89,10 @@ The dashboard converts raw business data into actionable insights that can suppo
 ## Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](Dashboard%20SS/Sales-Overview.png)
+![Sales Overview](Sales-Overview.png)
 
 ### 2. Category Analysis
-![Category Analysis](Dashboard%20SS/Category-Analysis.png)
+![Category Analysis](Category-Analysis.png)
 
 ### 3. Product Profitability
-![Product Profitability](Dashboard%20SS/Product-Profitability.png)
+![Product Profitability](Product-Profitability.png)
